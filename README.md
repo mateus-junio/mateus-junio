@@ -1,6 +1,4 @@
-### Hi there 👋🕹🎮💻🛹 <br>
-![code-coding](https://user-images.githubusercontent.com/84557835/162595743-68210d66-734b-44f5-a6cc-2423b6e71202.gif)
-
+### Hi there 👋🕹🎮💻🛹 
 
 <a href="https://github.com/mateus-junio">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateus-junio&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
@@ -28,7 +26,7 @@
 <a> ![Snake animation](https://github.com/mateus-junio/mateus-junio/blob/output/github-contribution-grid-snake.svg)  </a>
  
  
-   
+![code-coding](https://user-images.githubusercontent.com/84557835/162595743-68210d66-734b-44f5-a6cc-2423b6e71202.gif)   
 
 <!--
 **mateus-junio/mateus-junio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
