@@ -1,4 +1,5 @@
 ### Hi there 👋🕹🎮💻🛹 <br>
+![code-coding](https://user-images.githubusercontent.com/84557835/162595743-68210d66-734b-44f5-a6cc-2423b6e71202.gif)
 
 
 <a href="https://github.com/mateus-junio">
@@ -17,7 +18,8 @@
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> 
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-          
+   
+    
 </a>  
     
 </div>     
@@ -25,6 +27,8 @@
 
 <a> ![Snake animation](https://github.com/mateus-junio/mateus-junio/blob/output/github-contribution-grid-snake.svg)  </a>
  
+ 
+   
 
 <!--
 **mateus-junio/mateus-junio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
