@@ -20,12 +20,9 @@
     
 </a>  
     
-</div>     
-
+</div>    
 
 <a> ![Snake animation](https://github.com/mateus-junio/mateus-junio/blob/output/github-contribution-grid-snake.svg)  </a>
- 
-
 
 <!--
 **mateus-junio/mateus-junio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
