@@ -1,4 +1,4 @@
-### Hi there 👋🕹🎮💻🛹 
+### Hi there 👋🎮💻🛹 
 
 <a href="https://github.com/mateus-junio">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateus-junio&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
